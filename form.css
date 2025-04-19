@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.inp input{
+    width: 420px;
+    height: 52px;
+    padding: 10px;
+    border-radius: 10px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    background-color: aqua;
+    border: none;
+    border-radius: 20px;
+    
+}
